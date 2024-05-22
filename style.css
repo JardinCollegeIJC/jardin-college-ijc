@@ -87,12 +87,10 @@ html, body {
 }
 
 .bandeau {
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+	width: 100%;
     background-color: black;
-    color: white;
     text-align: center;
     padding: 10px 0;
-    font-size: 20px;
+    font-size: 24px;
+    color: white;
 }
