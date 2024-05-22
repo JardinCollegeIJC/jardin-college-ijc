@@ -11,9 +11,9 @@ html, body {
 .titre {
 	text-align: center;
 	font-size: 70px;
-	font-family: 'Bernard MT', sans-serif;
+	font-family: 'Libre Baskerville', serif;
 	color: white;
-	background-image: url("https://jardincollegeijc.github.io/jardin-college-ijc/ressources/ressources/jardin.png");
+	background-image: url("https://jardincollegeijc.github.io/jardin-college-ijc/ressources/ressources/jardin.jpg");
 	background-size: auto;
 	background-position: center -10px;
 	padding-top: 50px;
