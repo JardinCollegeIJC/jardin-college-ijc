@@ -81,11 +81,9 @@ html, body {
 .event-chapeau {
 	display: inline-block;
 	font-size: 40px;
-	margin-top: 10px;
-	-webkit-text-fill-color: white;
-	-webkit-text-stroke-width: 2px;
-	-webkit-text-stroke-color: black;
+	-webkit-text-fill-color: rgb(0, 0, 0);
 	text-decoration: none;
+	margin-top: 10px;
 }
 
 /* Les dates */
