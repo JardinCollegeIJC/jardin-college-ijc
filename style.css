@@ -81,6 +81,7 @@ html, body {
 .event-chapeau {
 	display: inline-block;
 	font-size: 40px;
+	margin-top: 10px;
 }
 
 /* Les dates */
